@@ -127,7 +127,7 @@ void setup() {
   display.invertDisplay(false);
   delay(1000);
 
-  Serial.print(F("float size in byte: "));
+  Serial.print(F("float size in bytes: "));
   Serial.println(sizeof(float));
 }
 
