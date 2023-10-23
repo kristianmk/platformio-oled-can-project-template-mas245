@@ -7,7 +7,22 @@ This project is configured for use with a Teensy 3.6 on a carrier SKPang dual CA
 
 ## Project Setup
 
-This project is based on examples from the [PlatformIO Project Configuration Documentation](https://docs.platformio.org/page/projectconf.html).
+This PlatformIO project configuration is based on examples from the [PlatformIO Project Configuration Documentation](https://docs.platformio.org/page/projectconf.html).
+
+## Resources
+
+SK Pang reference implementation / example (using FlexCan):
+https://github.com/skpang/Teensy-3.6-Dual-CAN-Bus-Breakout-Board
+
+Flexcan_T4: 
+https://github.com/tonton81/FlexCAN_T4
+
+Gimp (for editing the splash screen source file): 
+https://www.gimp.org
+
+Peak PCAN software for CAN-bus adapter:<br />
+https://www.peak-system.com/ (Driver and PCAN-View for Linux and Windows)<br />
+https://www.mac-can.com (macOS version of driver and CAN monitor application)
 
 ## Author
 
