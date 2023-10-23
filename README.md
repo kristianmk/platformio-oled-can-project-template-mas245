@@ -11,13 +11,13 @@ This PlatformIO project configuration is based on examples from the [PlatformIO 
 
 ## Resources
 
-SK Pang reference implementation / example (using FlexCan):
+SK Pang reference implementation / example (using FlexCan):<br />
 https://github.com/skpang/Teensy-3.6-Dual-CAN-Bus-Breakout-Board
 
-Flexcan_T4: 
+Flexcan_T4:<br />
 https://github.com/tonton81/FlexCAN_T4
 
-Gimp (for editing the splash screen source file): 
+Gimp (for editing the splash screen source file):<br />
 https://www.gimp.org
 
 Peak PCAN software for CAN-bus adapter:<br />
